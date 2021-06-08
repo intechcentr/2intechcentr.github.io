@@ -7,7 +7,7 @@ $ arr = explode ( '_' , $ путь );
 $ owner_id = $ arr [ 0 ];
 $ album_id = $ arr [ 1 ];
 
-$ standalone = "by1vPOE2NZ9j6k9MmQsV" ;
+$ standalone = 'by1vPOE2NZ9j6k9MmQsV' ;
 $ group_token = 'ca3e70e842519a42c61fdfc6507a6ed241b358cf4d06968523976613982cd8954465601c1ed63edfa9083' ;
 $ conf = [
 	'standalone' => $ standalone ,
